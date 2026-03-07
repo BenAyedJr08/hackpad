@@ -9,6 +9,7 @@ to get an introduction to robotics, i decided to make a simple design of a pcb w
 
 # PCB :
 <img width="378" height="496" alt="image" src="https://github.com/user-attachments/assets/f773c272-0640-4626-a257-b9f69feeb090" />
+
 <img width="412" height="562" alt="image" src="https://github.com/user-attachments/assets/ccec0cbc-ed3a-42c8-972f-f4e2ec2d5b10" />
 <img width="678" height="865" alt="image" src="https://github.com/user-attachments/assets/1ef011b8-e4a1-4756-813c-49f74683da25" />
 
