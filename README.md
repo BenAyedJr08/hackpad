@@ -8,3 +8,6 @@ to get an introduction to robotics, i decided to make a simple design of a pcb w
 <img width="772" height="678" alt="Screenshot 2026-03-07 142743" src="https://github.com/user-attachments/assets/3c4f5d3f-5267-4d39-beaa-b1a425c9fbf8" />
 # PCB :
 <img width="378" height="496" alt="image" src="https://github.com/user-attachments/assets/f773c272-0640-4626-a257-b9f69feeb090" />
+<img width="678" height="865" alt="image" src="https://github.com/user-attachments/assets/1ef011b8-e4a1-4756-813c-49f74683da25" />
+# CAD :
+i used solidworks 2012 for this design
