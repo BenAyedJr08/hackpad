@@ -13,4 +13,5 @@ to get an introduction to robotics, i decided to make a simple design of a pcb w
 
 # CAD :
 i used solidworks 2012 for this design
+
 <img width="687" height="715" alt="image" src="https://github.com/user-attachments/assets/9ed46d00-5ca5-494f-91dc-786ca8560ea9" />
