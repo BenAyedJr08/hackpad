@@ -1,4 +1,4 @@
-# JR4 Hackpad
+# JR4 Macropad
 to get an introduction to robotics, i decided to make a simple design of a pcb with 4 switches where i added some basic shortcuts for daily use.
 # BOM :
 - 1 SEED XIAO RP2040
