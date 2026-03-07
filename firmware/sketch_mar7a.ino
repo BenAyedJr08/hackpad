@@ -1,8 +1,8 @@
 #include <Keyboard.h>
 
-const int button1 = 0; // D0
-const int button2 = 1; // D1
-const int button3 = 2; // D2
+const int button1 = 0; // D1
+const int button2 = 1; // D2
+const int button3 = 2; // D4
 const int button4 = 3; // D3
 
 void setup() {
