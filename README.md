@@ -5,7 +5,8 @@ to get an introduction to robotics, i decided to make a simple design of a pcb w
 - 4 MX switches
 - 2 SK6812 rgb diodes
 # Schematics :
-<img width="772" height="678" alt="Screenshot 2026-03-07 142743" src="https://github.com/user-attachments/assets/3c4f5d3f-5267-4d39-beaa-b1a425c9fbf8" />
+<img width="772" height="678" alt="Screenshot 2026-03-07 142743" src="https://github.com/user-attachments/assets/27d656ec-75e5-4ee1-9636-4e96ad152a91" />
+
 
 # PCB :
 <img width="448" height="599" alt="Screenshot 2026-03-07 142743" src="https://i.postimg.cc/7PM7DGqg/Screenshot-2026-03-16-005227.png" />
